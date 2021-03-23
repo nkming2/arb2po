@@ -1,4 +1,7 @@
 # arb2po
+
+[![pipeline status](https://gitlab.com/nkming2/arb2po/badges/master/pipeline.svg)](https://gitlab.com/nkming2/arb2po/-/commits/master) 
+
 Convert ARB file to PO file
 
 ARB format is being used in flutter intl package but tooling support for it is
