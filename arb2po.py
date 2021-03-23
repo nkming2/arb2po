@@ -77,7 +77,7 @@ class _Arb2Po:
 					yield f"#. If zero: \"{o_zero}\""
 				except KeyError:
 					t_str0 = ""
-				yield f"msgctxt \"{o_key}\""
+				yield f"msgctxt \"{o_key}\"!"
 
 				try:
 					o_one = (o_patterns["=1"] if "=1" in o_patterns
